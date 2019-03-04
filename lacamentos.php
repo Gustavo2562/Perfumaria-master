@@ -105,5 +105,22 @@
     <p class="card-text">Shalimar Parfum Initial de Guerlain é um perfume Chipre Floral Feminino. Shalimar Parfum Initial foi lançado em 2011. O perfumista que assina esta fragância é Thierry Wasser.</p>
   </div>
 </div>
+                
+            <div class="card" style="width: 18rem;">
+  <img src="img/masculino2.jpg" class="card-img-top" alt="imagem-perfume">
+  <div class="card-body">
+    <h5 class="card-title">Guerlain</h5>
+    <p class="card-text">O designer Guerlain tem 381 perfumes na nossa base de fragrância. Guerlain é uma casa de perfumes antiga. A edição mais antiga foi criada em 1860 e a mais recente em 2019.</p>
+  </div>
+</div>
+                
+                <div class="card" style="width: 18rem;">
+  <img src="img/masculino4.jpg" class="card-img-top" alt="imagem-perfume">
+  <div class="card-body">
+    <h5 class="card-title">Boucheron</h5>
+    <p class="card-text">Ambre D'Alexandrie de Boucheron é um perfume Oriental Compartilhável. Esta é uma nova fragrância. Ambre D'Alexandrie foi lançado em 2017.</p>
+  </div>
+</div>
+    
     </body>
 </html>
