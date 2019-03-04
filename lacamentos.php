@@ -10,7 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h5 class="card-title">Gold issime</h5>
+        
         <?php
         // put your code here
         ?>
