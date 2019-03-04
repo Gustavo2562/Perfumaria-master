@@ -38,7 +38,7 @@
 </div>
                 
                 <div class="card" style="width: 18rem;">
-  <img src="img/masculino5.png" class="card-img-top" alt="imagem-perfume">
+  <img src="img/masculino5.jpg" class="card-img-top" alt="imagem-perfume">
   <div class="card-body">
     <h5 class="card-title">Gucci Bamboo</h5>
     <p class="card-text">Gucci Bamboo de Gucci é um perfume Floral Feminino. Gucci Bamboo foi lançado em 2015. A nota de topo é Bargamota as notas de coração são de Ylang Ylang.</p>
@@ -87,7 +87,7 @@
 </div>
                 
                 <div class="card" style="width: 18rem;">
-  <img src="img/masculino11.png" class="card-img-top" alt="...">
+  <img src="img/masculino11.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">The body gil</h5>
     <p class="card-text">the body gil foi criado por Cheviêr de la mine em 2009 usando as fragrâncias de seus antigos perfumes lançados.</p>
