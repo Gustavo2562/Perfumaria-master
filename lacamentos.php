@@ -97,5 +97,13 @@
     </a>
   </div>
 </div>
+    
+    <div class="card" style="width: 18rem;">
+  <img src="img/masculino1.jpg" class="card-img-top" alt="imagem-perfume">
+  <div class="card-body">
+    <h5 class="card-title">Shalimar</h5>
+    <p class="card-text">Shalimar Parfum Initial de Guerlain é um perfume Chipre Floral Feminino. Shalimar Parfum Initial foi lançado em 2011. O perfumista que assina esta fragância é Thierry Wasser.</p>
+  </div>
+</div>
     </body>
 </html>
