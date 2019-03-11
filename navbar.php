@@ -16,9 +16,6 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
               <li class="nav-item active">
-                  <a class="nav-link" href="inicial.php">Pagina Principal <span class="sr-only">(current)</span></a>
-              </li>
-              <li class="nav-item active">
                 <a class="nav-link" href="lacamentos.php">Lançamentos</a>
               </li><li class="nav-item active">
                 <a class="nav-link" href="cosmeticos.php">Cosméticos</a>
@@ -36,12 +33,12 @@
                 </div>
               </li>
               </li><li class="nav-item active">
-                <a class="nav-link" href="#">Login</a>
+                <a class="nav-link" href="form_login.php">Login</a>
               </li>
             </ul>
-            <form class="form-inline my-2 my-lg-0">
-              <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Search">
-              <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Buscar</button>
+              <form class="form-inline my-2 my-lg-0" method="post" action="consultar_produto.php">
+                  <input class="form-control mr-sm-2" type="search" placeholder="Buscar" name="buscar" aria-label="Search">
+              <button class="btn btn-outline-success my-2 my-sm-0" type="submit" name="consultar">Buscar</button>
             </form>
           </div>
         </nav>
